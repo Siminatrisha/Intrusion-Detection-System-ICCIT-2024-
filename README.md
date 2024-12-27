@@ -29,8 +29,12 @@ The hybrid deep learning model includes:
 The selected features from the XGBoost feature selection method were fed into this architecture to achieve high accuracy.  
 
 ### **Model Diagram**  
-[Overall_Process]([images/overall process.png](https://github.com/Siminatrisha/Intrusion-Detection-System-ICCIT-2024-/blob/main/overall%20process.PNG))
-[DL_Model Architecture]([images/deep learning.png]((https://github.com/Siminatrisha/Intrusion-Detection-System-ICCIT-2024-/blob/main/deep%20learning.PNG)))
+## Overall Process
+![Overall Process](https://github.com/Siminatrisha/Intrusion-Detection-System-ICCIT-2024-/blob/main/overall%20process.PNG?raw=true)
+
+## DL Model Architecture
+![DL Model Architecture](https://github.com/Siminatrisha/Intrusion-Detection-System-ICCIT-2024-/blob/main/deep%20learning.PNG?raw=true)
+
 *This diagram illustrates the hybrid deep learning model combining CNN, RNN, and DNN.*
 
 ---
