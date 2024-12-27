@@ -29,7 +29,7 @@ The hybrid deep learning model includes:
 The selected features from the XGBoost feature selection method were fed into this architecture to achieve high accuracy.  
 
 ### **Model Diagram**  
-![Model Architecture](images/model_architecture.png)  
+![Model Architecture](images/overall process.png)  
 *This diagram illustrates the hybrid deep learning model combining CNN, RNN, and DNN.*
 
 ---
